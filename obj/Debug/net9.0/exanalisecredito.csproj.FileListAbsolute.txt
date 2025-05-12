@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\bin\Debug\net9.0\exanalisecredito.exe
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\bin\Debug\net9.0\exanalisecredito.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\bin\Debug\net9.0\exanalisecredito.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\bin\Debug\net9.0\exanalisecredito.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\bin\Debug\net9.0\exanalisecredito.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\refint\exanalisecredito.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\exanalisecredito.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exanalisecredito\obj\Debug\net9.0\ref\exanalisecredito.dll
